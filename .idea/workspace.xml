@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8e90b3-fcf0-460c-9541-6b57b8eb007f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_list_overlap_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_guess_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Divisors_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_Divisors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Odd_Even_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Odd_Even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/character_input_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_character_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guess_game_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_list_ends.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_comprehension_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_list_comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_less_than_ten_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_list_less_than_ten.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_overlap_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_list_overlap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rock_paper_scissors_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_rock_paper_scissors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_lists_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_string_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Questions.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_Odd_Even.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="119">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
@@ -63,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8_rock_paper_scissors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="323">
               <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
@@ -78,11 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12_list_ends.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_removing_duplicates.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15_reverse_word_order.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -114,7 +121,12 @@
         <option value="$PROJECT_DIR$/guess_game_9.py" />
         <option value="$PROJECT_DIR$/list_overlap_comprehension_10.py" />
         <option value="$PROJECT_DIR$/11_primality_function.py" />
+        <option value="$PROJECT_DIR$/13_Fibonacci.py" />
+        <option value="$PROJECT_DIR$/14_set_difference.py" />
+        <option value="$PROJECT_DIR$/14_removing_duplication.py" />
         <option value="$PROJECT_DIR$/12_list_ends.py" />
+        <option value="$PROJECT_DIR$/14_removing_duplicates.py" />
+        <option value="$PROJECT_DIR$/15_reverse_word_order.py" />
       </list>
     </option>
   </component>
@@ -162,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12_list_ends">
+  <component name="RunManager" selected="Python.15_reverse_word_order">
     <configuration name="11_primality_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticePythonOrg" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guess_game_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13_Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticePythonOrg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,7 +232,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Qasim\PycharmProjects\PracticePythonOrg\9_guess_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_Fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_overlap_comprehension_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14_removing_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticePythonOrg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,7 +254,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Qasim\PycharmProjects\PracticePythonOrg\10_list_overlap_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_removing_duplicates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rock_paper_scissors_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15_reverse_word_order" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PracticePythonOrg" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,7 +276,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Qasim\PycharmProjects\PracticePythonOrg\8_rock_paper_scissors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_reverse_word_order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15_reverse_word_order" />
+        <item itemvalue="Python.14_removing_duplicates" />
+        <item itemvalue="Python.13_Fibonacci" />
         <item itemvalue="Python.12_list_ends" />
         <item itemvalue="Python.11_primality_function" />
-        <item itemvalue="Python.list_overlap_comprehension_10" />
-        <item itemvalue="Python.guess_game_9" />
-        <item itemvalue="Python.rock_paper_scissors_8" />
       </list>
     </recent_temporary>
   </component>
@@ -296,18 +308,19 @@
       <workItem from="1565423760769" duration="1649000" />
       <workItem from="1565435319644" duration="3205000" />
       <workItem from="1565449880816" duration="977000" />
-      <workItem from="1565605143742" duration="3124000" />
+      <workItem from="1565605143742" duration="7372000" />
+      <workItem from="1565674851194" duration="1162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8955000" />
+    <option name="totallyTimeSpent" value="14365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26618123" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27022654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -336,16 +349,19 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PracticePythonOrg$Divisors_4.coverage" NAME="Divisors_4 Coverage Results" MODIFIED="1565424149042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PracticePythonOrg$rock_paper_scissors_8.coverage" NAME="rock_paper_scissors_8 Coverage Results" MODIFIED="1565436936572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PracticePythonOrg$15_reverse_word_order.coverage" NAME="15_reverse_word_order Coverage Results" MODIFIED="1565676226705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PracticePythonOrg$14_removing_duplicates.coverage" NAME="14_removing_duplicates Coverage Results" MODIFIED="1565676186576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PracticePythonOrg$13_Fibonacci.coverage" NAME="13_Fibonacci Coverage Results" MODIFIED="1565612856684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PracticePythonOrg$list_less_than_ten_3.coverage" NAME="list_less_than_ten_3 Coverage Results" MODIFIED="1565424090969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PracticePythonOrg$list_comprehension_7.coverage" NAME="list_comprehension_7 Coverage Results" MODIFIED="1565425409040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PracticePythonOrg$12_list_ends.coverage" NAME="12_list_ends Coverage Results" MODIFIED="1565612641906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PracticePythonOrg$character_input_1.coverage" NAME="character_input_1 Coverage Results" MODIFIED="1565423990222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PracticePythonOrg$string_lists_6.coverage" NAME="string_lists_6 Coverage Results" MODIFIED="1565424919477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PracticePythonOrg$list_overlap_comprehension_10.coverage" NAME="list_overlap_comprehension_10 Coverage Results" MODIFIED="1565607669379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PracticePythonOrg$11_primality_function.coverage" NAME="11_primality_function Coverage Results" MODIFIED="1565608119643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PracticePythonOrg$list_overlap_5.coverage" NAME="list_overlap_5 Coverage Results" MODIFIED="1565424172469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PracticePythonOrg$Odd_Even_2.coverage" NAME="Odd_Even_2 Coverage Results" MODIFIED="1565424315102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PracticePythonOrg$list_less_than_ten_3.coverage" NAME="list_less_than_ten_3 Coverage Results" MODIFIED="1565424090969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PracticePythonOrg$list_comprehension_7.coverage" NAME="list_comprehension_7 Coverage Results" MODIFIED="1565425409040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PracticePythonOrg$12_list_ends.coverage" NAME="12_list_ends Coverage Results" MODIFIED="1565609274429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PracticePythonOrg$guess_game_9.coverage" NAME="guess_game_9 Coverage Results" MODIFIED="1565606839691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PracticePythonOrg$character_input_1.coverage" NAME="character_input_1 Coverage Results" MODIFIED="1565423990222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/list_comprehensions_7.py" />
@@ -357,41 +373,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_Odd_Even.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_list_less_than_ten.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Questions.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_Divisors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6_string_lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5_list_overlap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -409,9 +394,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/13_Fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_Odd_Even.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_list_less_than_ten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_Divisors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_list_overlap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/8_rock_paper_scissors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="323">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
@@ -426,7 +446,24 @@
     <entry file="file://$PROJECT_DIR$/12_list_ends.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Questions.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_removing_duplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_reverse_word_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
